@@ -26,7 +26,7 @@
       <textarea class="px-8 md:px-2 mx-5 md:mx-4 py-4 xl:py-3 rounded-lg mt-4 text-lg xl:text-base outline-none placeholder-[#b0b0b0] font-medium"  type="text" placeholder="Enter your message"/>
       <span class="flex mt-4 font-medium"> <input class="ml-10 md:ml-4 mt-1" type="checkbox" />&nbsp; I accept the <p class="text-[#666666] ml-1">TERMS OF SERVICE</p></span>
       <span class="flex justify-center items-center">
-        <button class="bg-[#111111] text-black px-28 xl:px-48 py-2 mt-8 text-xl rounded-lg font-semibold  uppercase tracking-widest xl:text-sm">Submit</button>
+        <button class="bg-[#111111] text-white px-28 xl:px-48 py-2 mt-8 text-xl rounded-lg font-semibold  uppercase tracking-widest xl:text-sm">Submit</button>
       </span>
     </div>
   </div>
