@@ -139,7 +139,7 @@ import Navbar from "../components/main_navbar.vue"
             </div>
           </div>
           <span class="flex items-center">
-                <button class="bg-[#cbff00] text-black px-12 py-4 mt-8 text-2xl rounded-lg font-bold hover:bg-white hover:text-black uppercase tracking-widest">Learn More ➝</button>
+                <button class="bg-[#cbff00] text-black px-12 py-4 mt-8 text-2xl rounded-lg font-bold hover:bg-white hover:text-black uppercase tracking-widest xl:text-base xl:px-7 xl:py-3">Learn More ➝</button>
               </span>
         </div>
       </section>
