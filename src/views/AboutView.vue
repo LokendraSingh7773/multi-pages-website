@@ -138,17 +138,17 @@ import Navbar from "../components/main_navbar.vue"
 
       <!-- seventh Section -->
       <section class="bg-black text-white px-12 py-14 xl:px-10 xl:py-20">
-        <div class="xl:mx-20">
+        <div class="xl:mx-20 ">
           <div>
-            <p class="text-3xl font-bold sm:px-14 min-[848px]:px-32 lg:px-8 min-[1120px]:mx-28 min-[1230px]:mx-36">Understanding The Brand Is The Most Critical Job Before Working On User Interface.</p>
+            <p class="text-3xl font-bold sm:px-14 min-[848px]:px-32 lg:px-8 min-[1120px]:mx-20 min-[1230px]:mx-36 min-[1350px]:pr-80 xl:text-5xl">Understanding The Brand Is The Most Critical Job Before Working On User Interface.</p>
           </div>
-          <div class="flex-col pt-8 items-center sm:pr-10 min-[680px]:px-14 min-[848px]:px-32 lg:px-10 min-[1120px]:mx-28 min-[1230px]:mx-40 ">
+          <div class="flex-col pt-8 items-center sm:pr-10 min-[680px]:px-14 min-[848px]:px-32 lg:px-10 min-[1120px]:mx-16 min-[1230px]:mx-40 ">
             <div class="bg-[#ccff00] h-24 w-24 lg:h-36 lg:w-36 rounded-full absolute z-10 mr-14 right-0 min-[420px]:right-10 min-[530px]:right-24 min-[530px]:right-36 min-[682px]:right-52 md:right-64 min-[921px]:right-80 min-[990px]:right-96 lg:right-56 xl:left-96 xl:ml-96"></div>
             <div class="bg-[#4d4d4d] h-64 w-64  min-[470px]:h-80  min-[470px]:w-80 sm:h-96 sm:w-96 lg:w-[600px] lg:h-[600px] xl:w-[480px] xl:h-[480px] rounded-full absolute mt-6 ml-4  min-[470px]:ml-10 lg:ml-32" ></div>
               <img class="relative mt-12 rounded-full w-[245px] h-[245px]  min-[470px]:w-[300px]  min-[470px]:h-[300px] sm:w-[380px] sm:h-[380px] lg:w-[600px] lg:h-[600px] xl:w-[450px] xl:h-[450px] object-cover" src="https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/017acdf02e205d229cb7d698/ssd.jpg" />
-              <p class="pt-10 sm:text-lg sm:pl-10 xl:text-base xl:pl-56 sm:tracking-widest sm:mt-[-5rem] sm:left-20 relative sm:pr-20 xl:mt-[-6rem] lg:mt-[-5rem] lg:left-40 lg:text-xl lg:pr-48">Nisl purus in mollis nunc sed id. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Turpis egestas sed tempus urna et pharetra. Id aliquet risus feugiat in ante metus dictum. Aliquet nec ullamcorper sit amet risus nullam. Lectus nulla at volutpat diam ut.</p>
-              <span class="mt-4 flex text-base pt-3 sm:pl-10 xl:pl-56  sm:left-20 relative lg:left-40">Images From <p class="underline underline-offset-8 ml-1"> Freepik</p></span>
-              <button class="bg-[#cbff00] text-black  sm:ml-10 xl:ml-56  px-6 py-3 relative  mt-8 sm:left-20 text-base rounded-lg font-semibold hover:bg-white hover:text-black uppercase tracking-widest lg:left-40">LEarn More</button>  
+              <p class="pt-10 sm:text-lg sm:pl-10 xl:text-base xl:pl-56 sm:tracking-widest sm:mt-[-5rem] sm:left-20 relative sm:pr-20 xl:mt-[-6rem] lg:mt-[-5rem] lg:left-20 lg:text-xl lg:pr-48 lg:pl-48 xl:pr-10 min-[1350px]:pr-52">Nisl purus in mollis nunc sed id. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Turpis egestas sed tempus urna et pharetra. Id aliquet risus feugiat in ante metus dictum. Aliquet nec ullamcorper sit amet risus nullam. Lectus nulla at volutpat diam ut.</p>
+              <span class="mt-4 flex text-base pt-3 sm:pl-10 xl:pl-56  sm:left-20 relative lg:left-20  lg:pl-48">Images From <p class="underline underline-offset-8 ml-1"> Freepik</p></span>
+              <button class="bg-[#cbff00] text-black  sm:ml-10 xl:ml-56  px-6 py-3 relative  mt-8 sm:left-20 text-base rounded-lg font-semibold hover:bg-white hover:text-black uppercase tracking-widest lg:left-20  lg:ml-48">LEarn More</button>  
               <div class="bg-[#ccff00] h-16 w-16 lg:h-24 lg:w-24 mt-10 rounded-full block sm:mt-[-4rem] xl:mt-[-6rem]"></div>
           </div>
         </div>
